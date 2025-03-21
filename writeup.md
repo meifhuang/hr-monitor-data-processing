@@ -8,7 +8,7 @@ Take a look at the file labeled `data/phase0.txt`. Why might we have missing val
 
 During sleep, we expect maximum heart rate of a phase to be **lower** than the maximum heart rate of all other phases. Observe the visualizations and descriptive statistics that you've calculated. Using these findings, in which phase does sleep occur? Mention numerical details that back your findings.
 
-[Answer here]
+
 
 ## Question 3
 
