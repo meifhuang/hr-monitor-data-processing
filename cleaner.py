@@ -10,10 +10,10 @@ def filter_nondigits(data: list) -> list:
     """
     
     filtered = []
-    for str in data:
-        str = str.strip()
-        if (str.isdigit()):
-            filtered.append(int(str))
+    for x in data:
+        x = x.strip()
+        if (x.isdigit()):
+            filtered.append(int(x))
 
     return filtered
         
